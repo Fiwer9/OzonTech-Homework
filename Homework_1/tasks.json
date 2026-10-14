@@ -1,0 +1,11 @@
+{
+  "next_id": 2,
+  "tasks": [
+    {
+      "id": 1,
+      "title": "ДЗ",
+      "status": "planned",
+      "deadline": "2026-11-11"
+    }
+  ]
+}
